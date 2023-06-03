@@ -13,3 +13,9 @@ button {
     border: none;
     cursor: pointer;
 }
+
+#counter {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
